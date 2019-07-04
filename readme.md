@@ -1,17 +1,32 @@
 # 每日练琴
 
-## 弹唱
+## 琴谱
 
+### 弹唱
 
+> [young for you](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/young%20for%20you)
 
+> [平凡之路](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF)
 
-## 指弹
+> [往后余生](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E5%BE%80%E5%90%8E%E4%BD%99%E7%94%9F)
 
-[canon](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/canon)
+> [成都](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E6%88%90%E9%83%BD)
 
-[he is  a priate](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/he%20is%20a%20priate)
+> [晴天](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E6%99%B4%E5%A4%A9)
 
-[天空之城](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E)
+> [蓝莲花](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%93%9D%E8%8E%B2%E8%8A%B1)
 
-[sunflower](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/sunflower)
+> [贝加尔湖畔](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94)
+
+### 指弹
+
+> [天空之城](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E)
+
+> [canon](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/canon)
+
+> [sunflower](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/sunflower)
+
+> [he is  a priate](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/he%20is%20a%20priate)
+
+> [perfect](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/perfect)
 

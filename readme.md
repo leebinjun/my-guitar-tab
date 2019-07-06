@@ -16,7 +16,10 @@
 
 > [蓝莲花](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%93%9D%E8%8E%B2%E8%8A%B1)
 
+> [不在](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E4%B8%8D%E5%9C%A8-%E9%9F%A9%E5%AE%89%E6%97%AD)
+
 > [贝加尔湖畔](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94)
+
 
 ### 指弹
 

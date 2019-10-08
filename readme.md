@@ -20,6 +20,11 @@
 
 > [贝加尔湖畔](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94)
 
+> [像我这样的人](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E5%83%8F%E6%88%91%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA)
+
+> [说好不哭](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%AF%B4%E5%A5%BD%E4%B8%8D%E5%93%AD)
+
+> [鼓楼](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E9%BC%93%E6%A5%BC)
 
 ### 指弹
 

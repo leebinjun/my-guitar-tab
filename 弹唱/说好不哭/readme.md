@@ -18,5 +18,5 @@ C | Bm Em | Am7 | D |
 
 副歌
 
-G D | Em Bm | C D | 
+G D | Em Bm | C D | G |
 G D | Em Bm | C D | G

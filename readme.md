@@ -26,6 +26,9 @@
 
 > [鼓楼](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E9%BC%93%E6%A5%BC)
 
+> [离人愁](https://github.com/leebinjun/my-guitar-tab/blob/master/%E5%BC%B9%E5%94%B1/%E7%A6%BB%E4%BA%BA%E6%84%81/readme.md)
+
+
 ### 指弹
 
 > [天空之城](https://github.com/leebinjun/my-guitar-tab/tree/master/%E6%8C%87%E5%BC%B9/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E)

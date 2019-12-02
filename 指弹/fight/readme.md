@@ -1,5 +1,5 @@
 
-![tab](01.jpeg)
-![tab](02.jpeg)
-![tab](03.jpeg)
-![tab](04.jpeg)
+![tab](01.jpg)
+![tab](02.jpg)
+![tab](03.jpg)
+![tab](04.jpg)

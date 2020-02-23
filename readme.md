@@ -3,6 +3,7 @@
 ## 琴谱
 
 ### 弹唱
+> [loving strangers](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/loving%20strangers)
 
 > [young for you](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/young%20for%20you)
 
@@ -33,6 +34,7 @@
 > [说好不哭](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%AF%B4%E5%A5%BD%E4%B8%8D%E5%93%AD)
 
 > [贝加尔湖畔](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94)
+
 > [鼓楼](https://github.com/leebinjun/my-guitar-tab/tree/master/%E5%BC%B9%E5%94%B1/%E9%BC%93%E6%A5%BC)
 
 ### 指弹
